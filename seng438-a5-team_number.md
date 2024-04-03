@@ -11,7 +11,20 @@
 
 # Introduction
 
-# 
+This assignment provided us with an introduction to the evaluation of integration test data through the use of reliability assessment tools, emphasizing the importance of ensuring system quality and reliability. We implemented two failure data assessment methods:
+
+1. Reliability growth testing
+2. Reliability assessment via the Reliability Demonstration Chart (RDC)
+
+These methods are of paramount importance in practical applications as they provide valuable insights into system effectiveness and reliability. This allows for early detection of potential issues by programmers, who can then take appropriate corrective measures. The use of these assessment tools enables stakeholders to make informed decisions about their systems' reliability and implement measures to enhance their performance and lifespan.
+
+The objective of this lab was to gain practical experience in assessing the reliability of a hypothetical system by analyzing its failure data collected during integration testing. To achieve this, the lab was divided into two sections, each focusing on one of the above-mentioned failure data assessment methods.
+
+In the first section of the lab, we were required to establish a reliability growth assessment tool, such as SRTAT or CSFRAT, and generate diagrams depicting the failure rate and reliability of the system under test (SUT). We chose to use SRTAT for our reliability growth testing, gaining familiarity with the features and operation of a reliability growth testing tool.
+
+In the second section, we were introduced to the Reliability Demonstration Chart (RDC) tool and its application. A key goal of this section was to understand how to ascertain the adequacy of testing for a given Mean Time To Failure (MTTF) of the SUT by plotting the test data.
+
+Upon completion of this lab, we have gained a deeper understanding of reliability growth testing and its importance. This lab report details the testing tools used in the experiment, including C-SFRAT or SRTAT, applied to the provided failure data set, which includes various test data files. We selected one file for each of the failure data analysis methods.
 
 # Assessment Using Reliability Growth Testing 
 
@@ -23,10 +36,28 @@
 
 # Discussion on Similarity and Differences of the Two Techniques
 
-# How the team work/effort was divided and managed
+The two failure data assessment techniques we employed, while similar in some respects, exhibit distinct differences when examined in detail:
 
-# 
+### Similarities:
+
+- Both methodologies are deployed for assessing a system's reliability.
+- Both require comprehensive data to yield precise outcomes.
+- They both pinpoint components within the system that fall short in terms of reliability.
+- BThey enable evaluators to ascertain whether the desired reliability threshold has been achieved.
+
+### Differences:
+
+- Reliability growth testing is more apt for predicting potential future performance, whereas the Reliability Demonstration Chart (RDC) is tailored for assessing the current performance level of the software.
+- Reliability growth testing adopts a dynamic approach to testing, in contrast to the static nature of RDC.
+- The process of reliability growth testing involves ongoing interaction, contrasting with RDC's approach of a singular, conclusive analysis.
+- Reliability growth testing excels in identifying system defects, whereas RDC is particularly effective in verifying that software fulfills specific reliability criteria.
+
+
+# How the team work/effort was divided and managed
+In our group, we distributed the workload evenly for lab assignment. Our initial focus was on comprehending the installation and application of the tools, as well as deciphering the data. Subsequently, we delved into the capabilities of each tool and their significance in system testing. Following the execution of the experiments and the analysis of the outcomes, all group members participated in assembling a detailed lab report with meticulousness and precision.
 
 # Difficulties encountered, challenges overcome, and lessons learned
+
+A variety of tools are available for assessing a system's reliability, but they are merely simulations and should not be a substitute for thorough testing. Their reliability is not assured as much of the data they generate is estimated and approximated. Furthermore, the use of these tools necessitates a thorough understanding of each function and the interpretation of results. However, gaining knowledge about these tools is crucial as they are commonly used in the industry, and familiarity with them can be beneficial in the future. We encountered a challenge when the required tool SRTAT was incompatible with our laptops. Initially, we faced difficulties in identifying the steps to derive the results of the assignment tasks. However, through persistent efforts, we were able to understand the concepts by referring to the lecture notes and conducting supplementary research.
 
 # Comments/feedback on the lab itself
