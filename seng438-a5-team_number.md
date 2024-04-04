@@ -4,12 +4,17 @@
 
 | Group \#:       |   |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Student 1  |  Zhifan Li |
+|  Student 2| Sandip Mishra  |
+| Student 3  |  Shanzi Ye |
+|   Student 4 |  Fardin Aryan |
 
 # Introduction
+
+Student 1 
+Student 2 Sandip Mishra
+Student 3 Shanzi Ye
+Student 4 Fardin Aryan
 
 This assignment provided us with an introduction to the evaluation of integration test data through the use of reliability assessment tools, emphasizing the importance of ensuring system quality and reliability. We implemented two failure data assessment methods:
 
@@ -61,3 +66,5 @@ In our group, we distributed the workload evenly for lab assignment. Our initial
 A variety of tools are available for assessing a system's reliability, but they are merely simulations and should not be a substitute for thorough testing. Their reliability is not assured as much of the data they generate is estimated and approximated. Furthermore, the use of these tools necessitates a thorough understanding of each function and the interpretation of results. However, gaining knowledge about these tools is crucial as they are commonly used in the industry, and familiarity with them can be beneficial in the future. We encountered a challenge when the required tool SRTAT was incompatible with our laptops. Initially, we faced difficulties in identifying the steps to derive the results of the assignment tasks. However, through persistent efforts, we were able to understand the concepts by referring to the lecture notes and conducting supplementary research.
 
 # Comments/feedback on the lab itself
+
+For future enhancements of the laboratory experience, it is recommended to employ software that is universally compatible with all operating systems. Additionally, providing comprehensive instructions for tool usage could significantly streamline the learning process, thereby reducing the time spent on trial-and-error methods, which currently seem inefficient. The time allocated for the lab could also be extended, as the existing time constraints necessitate prioritization and limit the opportunity for students to optimize their results.
