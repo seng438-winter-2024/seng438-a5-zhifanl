@@ -45,7 +45,7 @@ The two failure data assessment techniques we employed, while similar in some re
 - Both methodologies are deployed for assessing a system's reliability.
 - Both require comprehensive data to yield precise outcomes.
 - They both pinpoint components within the system that fall short in terms of reliability.
-- BThey enable evaluators to ascertain whether the desired reliability threshold has been achieved.
+- They enable evaluators to ascertain whether the desired reliability threshold has been achieved.
 
 ### Differences:
 
