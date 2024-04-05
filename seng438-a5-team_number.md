@@ -11,10 +11,7 @@
 
 # Introduction
 
-Student 1 
-Student 2 Sandip Mishra
-Student 3 Shanzi Ye
-Student 4 Fardin Aryan
+
 
 This assignment provided us with an introduction to the evaluation of integration test data through the use of reliability assessment tools, emphasizing the importance of ensuring system quality and reliability. We implemented two failure data assessment methods:
 
